@@ -7,7 +7,8 @@
 </head>
 <body>
     <?php
-       echo("welcome to php!!!")
+       echo("welcome to php!!!");
+       echo("new file updating")
     ?>
 </body>
 </html>
